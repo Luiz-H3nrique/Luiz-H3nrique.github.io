@@ -9,7 +9,7 @@ tags: [SRE]
 Durante a minha formação como SRE na Alura, tive a oportunidade de desenvolver um projeto prático que envolveu a implementação de logs e tracer em uma API desenvolvida em Spring Boot. Neste post, vou compartilhar os detalhes desse projeto e como essas ferramentas foram aplicadas para melhorar a observabilidade e o monitoramento da nossa aplicação.
 
 ## Contexto do Projeto
-Para o projeto, foi Disponibilizado uma API  desenvolvida  ultilizando o framework Spring Boot. O objetivo era implematr a  observabilidade e obter o desempenho e os possíveis gargalos do sistema.
+Para o projeto, foi Disponibilizado uma API  desenvolvida  ultilizando o framework Spring Boot. O objetivo era implementar a  observabilidade e obter o desempenho e os possíveis gargalos do sistema.
 
 
 ![Desktop View](/assets/img/post/Arquitetura-forma%C3%A7%C3%A3o-SRE.png ){: .normal }
