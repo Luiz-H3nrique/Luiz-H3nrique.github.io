@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Luiz Henrique</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-06-19T15:35:11-03:00</updated>
+  <updated>2023-06-19T16:08:29-03:00</updated>
   <author>
     <name>Luiz Henrique</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/formacao-SRE/" rel="alternate" type="text/html" title="Formação SRE - Alura" />
     <published>2023-06-19T03:10:00-03:00</published>
   
-    <updated>2023-06-19T03:10:00-03:00</updated>
+    <updated>2023-06-19T15:39:43-03:00</updated>
   
     <id>http://localhost:4000/posts/formacao-SRE/</id>
     <content src="http://localhost:4000/posts/formacao-SRE/" />
