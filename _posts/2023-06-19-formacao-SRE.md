@@ -1,6 +1,6 @@
 ---
 title: Formação SRE - Alura
-author:  <author_id>
+author: cotes
 date: 2023-06-19 14:10:00 +0800
 categories: [SRE]
 tags: [SRE]
