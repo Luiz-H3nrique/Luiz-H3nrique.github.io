@@ -1,6 +1,6 @@
 ---
 title: Formação SRE - Alura
-author: Luiz Henrique
+author: {: file="_data/authors.yml" }
 date: 2023-06-19 14:10:00 +0800
 categories: [SRE]
 tags: [SRE]
