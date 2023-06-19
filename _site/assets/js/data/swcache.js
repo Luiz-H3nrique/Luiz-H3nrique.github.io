@@ -31,6 +31,7 @@ const resource = [
         '/assets/img/favicons/favicon.ico',
         '/assets/img/favicons/mstile-150x150.png',
         '/assets/img/favicons/perfil.png',
+        '/assets/img/favicons/user.png',
         '/assets/js/dist/home.min.js'
 ];
 
