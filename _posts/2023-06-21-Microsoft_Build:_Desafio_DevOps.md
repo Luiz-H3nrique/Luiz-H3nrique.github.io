@@ -70,8 +70,8 @@ O Microsoft Build é um evento anual que reúne desenvolvedores de todo o mundo 
 
 
 ![](https://learn.microsoft.com/en-us/training/achievements/1-design-a-container-build-strategy.svg)<br>
-`Criando uma estratégia de build de contêiner:`Aqui, aprendi a criar estratégias de build de contêiner eficientes usando ferramentas como Docker e Azure Container Registry.Essa abordagem   
- simplifica o empacotamento e implantação de aplicativos em contêineres.
+`Criando uma estratégia de build de contêiner:`Aqui, aprendi a criar estratégias de build de contêiner eficientes usando ferramentas como Docker e Azure Container Registry.
+com isso simplifica o empacotamento e implantação de aplicativos em contêineres.
 
 
 
