@@ -6,7 +6,7 @@ date: 2023-06-21 09:52:00 +0800
 categories: [Devops]
 tags: [Azure]
 image:
-  path: /assets/img/post/skill_cloud(1).png
+  path: assets/img/post/skill_cloud (1).png
   alt: Badge recebido por ter finalizado o Challenges.
 ---
 ---
