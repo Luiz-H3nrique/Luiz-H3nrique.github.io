@@ -8,13 +8,13 @@ tags: [Azure]
 
 ---
 ## Microsoft Cloud Skills Challenge 
-<div style="text-align: center;">
+
   ![Badge recebido por ter finalizado o Challenge.](/assets/img/post/skill_cloud.png)
-</div>
+
 
 
 O Microsoft Build é um evento anual que reúne desenvolvedores de todo o mundo para explorar as últimas tecnologias e tendências do setor. Recentemente, tive o privilégio de participar do Desafio DevOps no Microsoft Build, uma oportunidade incrível de mergulhar nas práticas e ferramentas de DevOps oferecidas pela Microsoft. Neste post, vou compartilhar os principais tópicos abordados durante o desafio e como isso me ajudou a aprimorar minhas habilidades em DevOps.
-## Módulos abordados:
+### Módulos abordados:
 <p>Durante o Desafio DevOps, pude explorar uma ampla gama de tópicos relevantes e práticas essenciais para a implementação eficaz do DevOps. Aqui estão alguns dos módulos que participei e os destaques de cada um deles:</p>
 
 ![Devops](https://learn.microsoft.com/en-us/training/achievements/1-introduction-to-devops.svg)<br>
