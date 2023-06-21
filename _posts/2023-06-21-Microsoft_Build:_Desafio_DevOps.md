@@ -5,11 +5,16 @@ author: cotes
 date: 2023-06-21 09:52:00 +0800
 categories: [Devops]
 tags: [Azure]
-
+image:
+  path: /assets/img/post/skill_cloud(1).png
+  alt: Badge recebido por ter finalizado o Challenges.
+---
 ---
 ## Microsoft Cloud Skills Challenge 
 
-  ![Badge recebido por ter finalizado o Challenge.](/assets/img/post/skill_cloud.png)
+ <center>
+  <img src="/assets/img/post/skill_cloud.png" alt="Badge recebido por ter finalizado o Challenge." width="400" height="300">
+</center>
 
 
 
